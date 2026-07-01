@@ -86,14 +86,16 @@ Show Image
 
 📜 Certifications
 
-CertificationIssuerDate🏆 SOC Level 1 & 2TryHackMeMay 2026🔐 Ethical HackingVTU BelagaviMay 2026☁️ Cloud ComputingVTU BelagaviMay 2026
+🔐 Ethical HackingVTU BelagaviMay 2026
+
+☁️ Cloud ComputingVTU BelagaviMay 2026
 
 
 ✍️ Latest SOC Writeups
 
 📌 I publish hands-on SOC analysis writeups covering TryHackMe SOC L1 & L2 — threat detection, phishing analysis, alert triage, and incident response.
 
-👉 Read on Medium →
+👉 Read on Medium →  medium.com/@darshan331740_89257 
 
 
 🌐 Connect With Me
