@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Darshan K
-### SOC Analyst | Blue Team | Threat Detection & Incident Response
+### SOC Analyst | Threat Detection & Incident Response
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshank404)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@darshan331740_89257)
@@ -78,7 +78,6 @@
 
 | Certification | Issuer | Date |
 |---|---|---|
-| 🏆 SOC Level 1 & 2 | TryHackMe | May 2026 |
 | 🔐 Ethical Hacking | VTU Belagavi | May 2026 |
 | ☁️ Cloud Computing | VTU Belagavi | May 2026 |
 
