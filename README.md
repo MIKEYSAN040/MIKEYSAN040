@@ -80,7 +80,10 @@
 |---|---|---|
 | 🔐 Ethical Hacking | VTU Belagavi | May 2026 |
 | ☁️ Cloud Computing | VTU Belagavi | May 2026 |
-
+| Networking Basics | Cisco Networking Academy | Jul 2026 |
+| Technical Introduction to Cybersecurity 3.0 | Fortinet | Jul 2026 |
+| Introduction to the Threat Landscape 3.0 | Fortinet | Jul 2026 |
+| Microsoft Security Essentials | LinkedIn Learning | Jul 2026 |
 ---
 
 ## ✍️ Latest SOC Writeups
