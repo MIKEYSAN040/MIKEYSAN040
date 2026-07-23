@@ -58,7 +58,6 @@
 - Feature extraction pipeline: URL structure, domain age, lexical entropy, path patterns
 - Built with: `Python` `Flask` `Machine Learning` `Threat Intelligence`
 
-## 🔐 Featured Projects
 
 ### 🛡️ [Identity Threat Detection System](https://github.com/MIKEYSAN040/identity-threat-detection)
 Detects identity-based attack patterns across AWS CloudTrail logs.
