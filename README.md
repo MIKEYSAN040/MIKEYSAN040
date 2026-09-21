@@ -1,82 +1,74 @@
 <div align="center">
 
 # 👋 Hi, I'm Darshan K
-### SOC Analyst | Threat Detection & Incident Response
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshank404)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@darshan331740_89257)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Darshan331740)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MIKEYSAN040)
+### AWS Cloud Support | Cloud Troubleshooting | Linux | Networking
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/darshank404)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/MIKEYSAN040)
 
 </div>
 
 ---
 
-## 💫 About Me
+## ☁️ About Me
 
-🔵 Aspiring **SOC Analyst** with hands-on experience across the full threat detection and incident response lifecycle  
-🛡️ Experienced with **CrowdStrike Falcon** and **Microsoft Defender for Office 365** in live SOC environments  
-🔍 Passionate about **threat hunting**, **detection engineering**, and **cloud security**  
-📝 I document my SOC journey through writeups on **Medium** — TryHackMe SOC L1 & L2 path  
-🎓 MCA 2026 | Bapuji Institute of Engineering & Technology, Davanagere  
-📍 Karnataka, India  
+Hands-on **AWS Cloud Support** portfolio focused on cloud infrastructure, troubleshooting, monitoring, networking, deployment, and incident resolution.
+
+I build and troubleshoot AWS environments with a support-focused approach:
+
+**Customer Impact → Investigation → Root Cause → Remediation → Recovery Validation**
+
+🎓 MCA 2026 | Bapuji Institute of Engineering & Technology
+📍 Karnataka, India
 
 ---
 
-## 🛡️ Tech Stack
+## 🛠️ Cloud Support Skills
 
-### SIEM / EDR
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E31837?style=for-the-badge&logo=crowdstrike&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+**AWS:** EC2 • ECS • RDS • S3 • VPC • IAM • CloudWatch • Lambda
 
-### Threat Intelligence & Detection
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E10915?style=for-the-badge&logo=mitre&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+**Troubleshooting:** Linux • Networking • APIs • Databases • Security Groups • Logs
 
-### Scripting & Cloud
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Deployment:** Docker • ECR • CodePipeline • CodeDeploy
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 [Cloud Access Privilege Auditor](https://github.com/MIKEYSAN040/cloud-access-privilege-auditor)
-> Automated AWS IAM auditing tool with MITRE ATT&CK mapping (T1078, T1098, T1530, T1556)
-- Risk-classifies IAM findings as CRITICAL / HIGH / MEDIUM / LOW
-- Color-coded Excel reports via OpenPyXL + live Flask dashboard on AWS EC2
-- Built with: `Python` `Boto3` `Flask` `OpenPyXL` `AWS EC2`
+### ☁️ LMS – ECS Troubleshooting
 
-### 🤖 Sentinel AI — Phishing URL Detection System
-> ML-based Flask application that classifies URLs as phishing or legitimate in real time
-- Feature extraction pipeline: URL structure, domain age, lexical entropy, path patterns
-- Built with: `Python` `Flask` `Machine Learning` `Threat Intelligence`
+Containerized LMS application deployed using **ECS Fargate, ECR and Application Load Balancer**, with application and networking troubleshooting.
 
+### 📊 CloudGuard – EC2 Monitoring & Auto-Remediation
 
-### 🛡️ [Identity Threat Detection System](https://github.com/MIKEYSAN040/identity-threat-detection)
-Detects identity-based attack patterns across AWS CloudTrail logs.
-- **Stack:** Boto3, Flask, Pandas, Chart.js
-- **Results:** Detects 5 attack patterns · 100% recall · zero false positives on synthetic dataset
+EC2 monitoring solution using **CloudWatch and Lambda**, including alert investigation, IAM troubleshooting and automated recovery.
 
-### 🖥️ [Enterprise Windows Log Analyzer](https://github.com/MIKEYSAN040/enterprise-windows-log-analyzer)
-Parses and analyzes Windows Event Logs (EVTX) to surface adversary activity mapped to MITRE ATT&CK.
-- **Stack:** Python, python-evtx, OpenPyXL
-- **Results:** Validated against EVTX-ATTACK-SAMPLES · 75% true-positive rate (9/12) · 0% false positives
+### 🔧 Repair Shop – AWS Full-Stack Troubleshooting
 
-### 📡 [Network Traffic Anomaly Detector](https://github.com/MIKEYSAN040/network_traffic_anomaly_detector)
-Flags network-based attack behavior from packet captures.
-- **Stack:** Scapy, OpenPyXL
-- **Detects:** Port scans (T1046), ARP spoofing (T1557.002), SYN floods (T1498.001), C2 beaconing (T1071)
-- **Results:** 4/4 detection accuracy · 0 false positives across 150+ normal sessions
+Multi-tier application using **S3, EC2 and RDS**, with realistic customer-impacting incidents covering service failures, networking, database connectivity, API errors and CORS.
+
+### 🚀 GlobalM Web – AWS CI/CD
+
+Automated application delivery using **GitHub, CodePipeline, CodeDeploy and EC2**, including deployment validation and troubleshooting.
+
+### ⚡ MediaHub – Serverless Contact Workflow
+
+Serverless workflow using **Lambda, SNS and DynamoDB**, with API, IAM and configuration troubleshooting.
+
 ---
 
+## 🎯 Career Focus
 
+Seeking **entry-level Cloud Support / Cloud Operations opportunities** where I can apply AWS, Linux, networking and troubleshooting skills in a production support environment.
+
+---
+
+<div align="center">
+
+**AWS • Troubleshooting • Linux • Networking • Incident Response**
+
+</div>
 
 ---
 
@@ -93,7 +85,7 @@ Flags network-based attack behavior from packet captures.
 | Cisco Networking Basics | cisco | Jul 2026 |
 ---
 
-## ✍️ Latest SOC Writeups
+## ✍️ Latest Writeups
 
 📌 I publish hands-on SOC analysis writeups covering TryHackMe SOC L1 & L2 — threat detection, phishing analysis, alert triage, and incident response.
 
@@ -113,10 +105,3 @@ Flags network-based attack behavior from packet captures.
 
 ---
 
-<div align="center">
-
-
-
-*"Detection is not about finding needles in haystacks — it's about understanding why the needle is there."*
-
-</div>
