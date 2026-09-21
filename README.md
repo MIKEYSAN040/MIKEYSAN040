@@ -17,7 +17,7 @@ Hands-on **AWS Cloud Support** portfolio focused on cloud infrastructure, troubl
 
 I build and troubleshoot AWS environments with a support-focused approach:
 
-**Customer Impact → Investigation → Root Cause → Remediation → Recovery Validation**
+**Customer Impact -> Investigation -> Root Cause -> Remediation -> Recovery Validation**
 
 🎓 MCA 2026 | Bapuji Institute of Engineering & Technology
 📍 Karnataka, India
